@@ -1,0 +1,26 @@
+# Android Studio
+.idea/
+.gradle/
+local.properties
+*.iml
+build/
+captures/
+.DS_Store
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.keystore
+*.jks
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Gradle
+/gradle/wrapper/gradle-wrapper.properties
+Add .gitignore to exclude build and IDE files
