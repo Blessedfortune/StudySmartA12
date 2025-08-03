@@ -27,6 +27,7 @@ lifecycle-viewmodel = { group = "androidx.lifecycle", name = "lifecycle-viewmode
 
 # Firebase (BOM-managed preferred)
 firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version = "32.7.2" }
+firebase-core = { group = "com.google.firebase", name = "firebase-analytics-ktx", version = "21.6.1" }
 firebase-auth = { group = "com.google.firebase", name = "firebase-auth-ktx" }
 firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore-ktx" }
 firebase-analytics = { group = "com.google.firebase", name = "firebase-analytics-ktx" }
