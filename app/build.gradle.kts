@@ -60,3 +60,4 @@ dependencies {
     implementation(libs.firebase.bom)
     implementation("com.google.firebase:firebase-analytics-ktx")
 }
+apply<com.google.gms.googleservices.GoogleServicesPlugin>()
